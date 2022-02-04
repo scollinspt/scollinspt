@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scollinspt
-- 👀 I’m interested in lots of topics
+- 👀 I’m interested in analysis to integrate & translate evidence for decisions with a critical realist approach that ontology determines epistemology
 - 📫 How to reach me ... email @ smcollins1@plymouth.edu
 
 <!---
