@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scollinspt
-- 👀 I’m interested in analysis to integrate & translate evidence for decisions with a critical realist approach that ontology determines epistemology
-- 📫 How to reach me ... email @ smcollins1@plymouth.edu twitter [@Stats4PT](https://twitter.com/Stats4PT)
+- 👀 I’m interested in.... too many things
+- 📫 How to reach me ... email @ smc1047@usnh.edu
 
 <!---
 scollinspt/scollinspt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
