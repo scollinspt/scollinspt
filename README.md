@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scollinspt
-- 👀 I’m interested in.... too many things
-- 📫 How to reach me ... email @ smc1047@usnh.edu
+- 👀 I’m interested in.... game development for health professional (generally) and physical therapy (specifically) education
+- 📫 How to reach me ... email @ scollinspt at tutanota dot com
 
 <!---
 scollinspt/scollinspt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
