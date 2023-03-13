@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scollinspt
-- 👀 I’m interested in.... game development for health professional (generally) and physical therapy (specifically) education
+- 👀 I’m interested in.... model, simulation and game development for health professional (generally) and physical therapy (specifically) education
 - 📫 How to reach me ... email @ scollinspt at tutanota dot com
 
 <!---
