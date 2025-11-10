@@ -7,7 +7,7 @@ Founder & Lead, **Applied Biomedical Signal & Systems Lab (ABSSL)**
 Clinical decision science · Human factors · Biomedical signal analysis · Wearable systems · Health technology design  
 
 🌐 **Affiliations:**  
-Association for the Advancement of Medical Instrumentation (AAMI) · IEEE Engineering in Medicine & Biology Society (EMBS)  · APS Division of Biological Physics
+Association for the Advancement of Medical Instrumentation (AAMI) · IEEE Engineering in Medicine & Biology Society (EMBS)  · American Physical Society Division of Biological Physics (DBIO)
 
 📫 **Contact:**  
 scollinspt [at] tuta [dot] com  
