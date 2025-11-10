@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Sean Collins  
+### Hi, I’m Sean Collins  
 
 Professor & Director, School of Health at Plymouth State University  
 Founder & Lead, **Applied Biomedical Signal & Systems Lab (ABSSL)**  
