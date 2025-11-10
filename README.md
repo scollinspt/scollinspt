@@ -10,7 +10,7 @@ Clinical decision science · Human factors · Biomedical signal analysis · Wear
 Association for the Advancement of Medical Instrumentation (AAMI) · IEEE Engineering in Medicine & Biology Society (EMBS)  · American Physical Society Division of Biological Physics (DBIO)
 
 📫 **Contact:**  
-scollinspt [at] tuta [dot] com  
+smc1047 [at] usnh [dot] edu  
 
 <!---
 scollinspt/scollinspt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
