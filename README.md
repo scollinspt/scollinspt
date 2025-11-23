@@ -1,7 +1,7 @@
 ### Hi, I’m Sean Collins  
 
 Professor & Director, School of Health at Plymouth State University  
-Founder & Lead, **CAIRE – Center for AI in Reasoning & Evidence**  
+Founder & Lead, **CAIRE – Clinical AI for Reasoning & Evidence**  
 
 **Interests:**  
 AI-assisted evidence synthesis · Causal inference · Clinical reasoning · Human factors engineering · Computational physiology · Intelligent health systems · NLP for biomedical knowledge extraction
@@ -10,7 +10,7 @@ AI-assisted evidence synthesis · Causal inference · Clinical reasoning · Huma
 Developing AI systems that integrate causal reasoning, clinical knowledge, and evidence-based synthesis to support real-world patient care decisions.
 
 **Background:**  
-ScD in Ergonomics/Human Factors Engineering with 30 years of work in  clinical decision science, critical realism, complex systems, and evidence translation for health professions. Currently building tools that combine LLMs, causal models, and simulation frameworks to enable next-generation clinical intelligence.
+ScD in Ergonomics/Human Factors Engineering with 30 years of work in clinical decision science, critical realism, complex systems, and evidence translation for health professions. Currently building tools that combine LLMs, causal models, and simulation frameworks to enable next-generation clinical intelligence.
 
 🚀 **Current Project:**  
 **100 Days of Health AI Development** — learning Python, building AI-enabled synthesis pipelines, and prototyping tools for causal modeling and automated literature understanding.
