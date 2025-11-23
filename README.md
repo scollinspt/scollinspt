@@ -13,7 +13,7 @@ Developing AI systems that integrate causal reasoning, clinical knowledge,  and 
 ScD in Ergonomics/Human Factors Engineering with 30 years of work in clinical decision science, critical realism, complex systems, and evidence translation for health professions. Currently building tools that combine LLMs, causal models, and simulation frameworks to enable next-generation clinical intelligence.
 
 🚀 **Current Project:**  
-**100 Days of Health AI Development** — learning Python, building AI-enabled synthesis pipelines, and prototyping tools for causal modeling and automated literature understanding.
+**100 Days of Health AI Development** — expanding Python skill set, building AI-enabled synthesis pipelines, and prototyping tools for causal modeling and automated literature understanding.
 
 🌐 **Affiliations:**  
 IEEE Engineering in Medicine & Biology Society (EMBS), Computer Society, Systems, Man, & Cybernetics (SMC) · Association for the Advancement of Medical Instrumentation (AAMI)
