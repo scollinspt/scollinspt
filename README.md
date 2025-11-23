@@ -4,10 +4,10 @@ Professor & Director, School of Health at Plymouth State University
 Founder & Lead, **CAIRE – Clinical AI for Reasoning & Evidence**  
 
 **Interests:**  
-AI-assisted evidence synthesis · Causal inference · Clinical reasoning · Human factors engineering · Computational physiology · Intelligent health systems · NLP for biomedical knowledge extraction
+AI-assisted evidence synthesis · Causal inference · Clinical reasoning · Human factors engineering · Computational physiology · Intelligent health systems · NLP for biomedical knowledge extraction · AI-augmented learning systems · Human–machine reasoning · Human–computer interaction
 
 **Mission:**  
-Developing AI systems that integrate causal reasoning, clinical knowledge, and evidence-based synthesis to support real-world patient care decisions.
+Developing AI systems that integrate causal reasoning, clinical knowledge,  and evidence-based synthesis to support real-world patient care decisions; while advancing educational tools that strengthen clinical reasoning and human–machine collaboration across the health professions.
 
 **Background:**  
 ScD in Ergonomics/Human Factors Engineering with 30 years of work in clinical decision science, critical realism, complex systems, and evidence translation for health professions. Currently building tools that combine LLMs, causal models, and simulation frameworks to enable next-generation clinical intelligence.
