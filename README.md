@@ -1,25 +1,32 @@
 ### Hi, I’m Sean Collins  
 
 Professor & Director, School of Health at Plymouth State University  
-Founder & Lead, **CAiRE – Clinical AI for Reasoning & Evidence**  
+Founding Director, Doctor of Physical Therapy Program  
 
-**Interests:**  
-AI-assisted evidence synthesis · Causal inference · Clinical reasoning · Human factors engineering · Computational physiology · Intelligent health systems · NLP for biomedical knowledge extraction · AI-augmented learning systems · Human–machine reasoning · Human–computer interaction
+My work explores the foundational structures that shape causality, inference, and scientific understanding. Drawing from systems theory, human factors engineering, and critical realism, I’m interested in how the organization of complex worlds—and the biological and technological systems through which we engage them—determine what can be known and how knowledge develops.
 
-**Mission:**  
-Developing AI systems that integrate causal reasoning, clinical knowledge,  and evidence-based synthesis to support real-world patient care decisions; while advancing educational tools that strengthen clinical reasoning and human–machine collaboration across the health professions.
+On GitHub, I build and experiment with computational tools that illuminate these structures: frameworks for causal modeling, information representation, complex systems, and conceptually grounded approaches to understanding data and models.
 
-**Background:**  
-ScD in Ergonomics/Human Factors Engineering with 30 years of work in clinical decision science, critical realism, complex systems, and evidence translation for health professions. Currently building tools that combine LLMs, causal models, and simulation frameworks to enable next-generation clinical intelligence.
+### **Current Directions**
+- Exploring the interface between **scientific inquiry and engineered systems**  
+- Developing conceptual and computational tools to clarify **causality, inference, and knowledge organization**  
+- Using Python and modern AI frameworks to prototype systems that reveal how structure shapes understanding  
 
-🚀 **Current Project:**  
-**100 Days of Health AI Development** — expanding Python skill set, building AI-enabled synthesis pipelines, and prototyping tools for causal modeling and automated literature understanding.
+### **Background**
+ScD in Ergonomics / Human Factors Engineering with longstanding interests in systems theory, epistemology, critical realism, biological organization, and the architecture of explanation.
 
-🌐 **Affiliations:**  
-IEEE Engineering in Medicine & Biology Society (EMBS), Computer Society, Systems, Man, & Cybernetics (SMC) · Association for the Advancement of Medical Instrumentation (AAMI)
+### **Professional Associations**
+- **American Physical Society (APS)**  
+  - *Forum on History and Philosophy of Physics (FHPP)* — for foundational perspectives on causality, ontology, and scientific understanding  
+  - *Division of Computational Physics (DCOMP)* — for computational approaches to complex, structured systems  
+  - *Division of Quantum Information (DQI)* — for information-theoretic and structural questions at the foundations of physics  
+- **IEEE**
+  - *Systems, Man, and Cybernetics Society (SMC)* — complex systems, human–machine interaction, and the architecture of reasoning  
+  - *Computer Society* — computation, information structures, and conceptual frameworks for intelligent systems
+  - *Engineering in Medicine & Biology Society (EMBS)* — systems, modeling, and interfaces between biological organization and engineered tools  
 
-📫 **Contact:**  
-smc1047 [at] usnh [dot] edu  
+### **Contact**
+smc1047 [at] usnh [dot] edu
 
 <!---
 scollinspt/scollinspt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
