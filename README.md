@@ -2,7 +2,7 @@
 
 **Healthcare Data Scientist | Clinical Informaticist | Causal Inference & Clinical AI Researcher**
 
-### Professor & Interim Director, School of Health at Plymouth State University
+### Professor of Clinical Inquiry, Physical Therapy Program, School of Health at Plymouth State University
 
 ### Founding Director, Doctor of Physical Therapy Program
 
