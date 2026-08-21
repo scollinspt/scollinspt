@@ -1,20 +1,36 @@
 # Sean Collins
 
-**Healthcare Data Scientist | Clinical Informaticist | Causal Inference & Clinical AI Researcher**
+**Physical Therapist · Professor of Clinical Inquiry · Causal Inference Researcher**
 
-### Professor of Clinical Inquiry, Physical Therapy Program, School of Health at Plymouth State University
+Professor of Clinical Inquiry, Doctor of Physical Therapy Program<br>
+School of Health, Plymouth State University
 
-### Founding Director, Doctor of Physical Therapy Program
+I study the path from scientific evidence to clinical judgment: how physiological
+mechanisms and population-level causal knowledge can be represented computationally,
+then used to support transparent reasoning about individual patients.
 
-Healthcare data scientist, clinical informaticist, quantitative researcher, and academic leader working at the intersection of clinical science, causal inference, artificial intelligence, and computable scientific knowledge.
+My current open research program has three connected layers:
 
-My work focuses on how population-level scientific evidence can be represented computationally and translated into more rigorous clinical reasoning. I am developing **Models4PT**, an open research platform for constructing, curating, integrating, and interrogating computable causal knowledge in physical therapy, as part of a broader research program examining causal explanation, evidence, uncertainty, and patient-specific inference.
+1. **[Physiolog](https://physiolog.org)** — a muscle-centered clinical physiology
+   textbook and interactive learning platform that establishes the mechanistic
+   foundation.
+2. **[Models4PT](https://github.com/scollinspt/Models4PT)** — an experimental platform
+   for curating computable causal knowledge while preserving evidence, uncertainty,
+   provenance, disagreement, and human scientific review.
+3. **[Clinical Inference Engine](https://github.com/scollinspt/Clinical-Inference-Engine)**
+   — a research initiative exploring patient-specific causal models, Bayesian inference,
+   and inspectable explanations.
 
-I bring more than 25 years of experience in clinical and quantitative research, including physiological measurement, epidemiology, causal analysis, cardiovascular outcomes, wearable and ambulatory monitoring, heart rate variability, research design, and evidence synthesis. My scholarship increasingly combines these foundations with causal modeling, knowledge representation, ontology development, AI-assisted scientific workflows, and computational approaches to clinical inference.
+The aim is not to automate clinical judgment. It is to make the knowledge, assumptions,
+uncertainty, and inferential steps supporting that judgment more explicit.
 
-My background also includes academic executive leadership as a founding program director, department chair, interim school director, editor-in-chief, and mentor of interdisciplinary teams spanning healthcare, biomedical engineering, human factors, and clinical research.
+I bring more than 30 years of experience in physical therapy education and more than
+25 years of clinical and quantitative research spanning cardiovascular outcomes,
+physiological measurement, heart rate variability, epidemiology, causal analysis,
+evidence synthesis, and research design. I founded Plymouth State University's Doctor
+of Physical Therapy program and teach clinical physiology and a three-course clinical
+inquiry sequence.
 
-Current technical work includes **Python, statistical and causal modeling, data analysis, SQL, machine learning, scientific AI, knowledge representation, API and software development, data visualization, and reproducible computational workflows**.
-
-My broader goal is to develop transparent computational systems that preserve the relationship among scientific evidence, causal knowledge, uncertainty, formal inference, and human clinical judgment.
-
+Explore the full program at **[scollinspt.github.io](https://scollinspt.github.io)**.
+For essays and public-facing writing, visit
+**[The Peripatetic Physical Therapist](https://peripateticpt.substack.com/)**.
