@@ -27,7 +27,7 @@ h3 { font-size: clamp(1.4rem, 2.2vw, 2.05rem); }
 #site-nav a:hover, #site-nav a:focus-visible, #site-nav a[aria-current="page"] { color: var(--copper); }
 #site-nav a[aria-current="page"]::after { position: absolute; right: 0; bottom: -8px; left: 0; height: 1px; background: var(--copper); content: ""; }
 .menu-button { display: none; }
-.hero { display: grid; grid-template-columns: minmax(0, 3fr) minmax(250px, 1fr); gap: clamp(48px, 8vw, 110px); align-items: end; width: var(--page); min-height: calc(100vh - 92px); padding: 96px 0 88px; }
+.hero { display: grid; grid-template-columns: minmax(0, 3fr) minmax(250px, 1fr); gap: clamp(48px, 8vw, 110px); align-items: end; width: var(--page); min-height: calc(100vh - 92px); margin: 0 auto; padding: 96px 0 88px; }
 .page-hero { width: var(--page); min-height: 550px; margin: 0 auto; padding: 110px 0 90px; border-bottom: 1px solid var(--line); }
 .page-hero h1 { max-width: 980px; }
 .about-hero { display: grid; grid-template-columns: 2fr minmax(220px, 0.65fr); gap: 9vw; align-items: end; }
