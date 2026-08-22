@@ -21,8 +21,7 @@ My current open research program has three connected layers:
    — a research initiative exploring patient-specific causal models, Bayesian inference,
    and inspectable explanations.
 
-The aim is not to automate clinical judgment. It is to make the knowledge, assumptions,
-uncertainty, and inferential steps supporting that judgment more explicit.
+The aim is to make the knowledge, assumptions, uncertainty, and inferential steps supporting that judgment more explicit.
 
 I bring more than 30 years of experience in physical therapy education and more than
 25 years of clinical and quantitative research spanning cardiovascular outcomes,
