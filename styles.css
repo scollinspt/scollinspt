@@ -8,6 +8,7 @@
 html { scroll-behavior: smooth; }
 body { margin: 0; color: var(--ink); background: var(--paper); font-family: var(--sans); font-size: 16px; line-height: 1.65; }
 a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--copper); outline-offset: 4px; }
 img { display: block; max-width: 100%; }
 h1, h2, h3, p { margin-top: 0; }
 h1, h2, h3 { font-family: var(--serif); font-weight: 500; letter-spacing: -0.035em; line-height: 1.12; }
@@ -65,6 +66,14 @@ h3 { font-size: clamp(1.4rem, 2.2vw, 2.05rem); }
 .path-step p:not(.step-kicker) { color: var(--ink-soft); font-size: 0.93rem; }
 .path-step a { margin-top: auto; color: var(--teal); font-weight: 600; }
 .path-arrow { display: grid; color: var(--copper); font-family: var(--serif); font-size: 1.5rem; place-items: center; }
+.ecosystem-grid { display: grid; grid-template-columns: repeat(2, 1fr); border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
+.ecosystem-grid article { display: flex; flex-direction: column; min-height: 300px; padding: 34px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.ecosystem-grid h3 { margin: 34px 0 18px; }
+.ecosystem-grid h3 a { text-decoration-color: var(--copper); }
+.ecosystem-grid article > p:not(.step-kicker) { color: var(--ink-soft); }
+.ecosystem-grid .text-link { margin-top: auto; color: var(--teal); }
+.ecosystem-flow { display: flex; gap: 18px; align-items: center; justify-content: center; margin: 34px 0 22px; color: var(--teal-dark); font-family: var(--serif); font-size: 1.05rem; text-align: center; }
+.ecosystem-flow span[aria-hidden="true"] { flex: 0 0 auto; color: var(--copper); font-size: 1.35rem; }
 .portal-grid, .principle-grid, .experience-grid { display: grid; grid-template-columns: repeat(2, 1fr); border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
 .portal-card, .principle-grid article, .experience-grid article { min-height: 270px; padding: 34px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .portal-card { text-decoration: none; }
@@ -153,6 +162,8 @@ footer p { margin-bottom: 0; }
   .identity-card .portrait-frame { margin-bottom: 0; }
   .premise-grid, .about, .split-callout, .writing { grid-template-columns: 1fr; gap: 35px; }
   .research-path { grid-template-columns: 1fr; }
+  .ecosystem-flow { flex-direction: column; }
+  .ecosystem-flow span[aria-hidden="true"] { transform: rotate(90deg); }
   .path-arrow { height: 42px; transform: rotate(90deg); }
   .path-step { min-height: 310px; }
   .about-intro { position: static; }
@@ -167,8 +178,8 @@ footer p { margin-bottom: 0; }
   .hero, .page-hero { padding: 64px 0; }
   .identity-card { grid-template-columns: 112px 1fr; gap: 20px; }
   .ruled-section { padding: 78px 0; }
-  .portal-grid, .principle-grid, .experience-grid, .credentials { grid-template-columns: 1fr; }
-  .portal-card, .principle-grid article, .experience-grid article { min-height: 0; }
+  .portal-grid, .principle-grid, .experience-grid, .credentials, .ecosystem-grid { grid-template-columns: 1fr; }
+  .portal-card, .principle-grid article, .experience-grid article, .ecosystem-grid article { min-height: 0; }
   .project-meta { gap: 20px; }
   .project-body { grid-template-columns: 1fr; gap: 28px; }
   .project h2 { font-size: 2.7rem; }
