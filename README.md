@@ -33,3 +33,7 @@ inquiry sequence.
 Explore the full program at **[scollinspt.github.io](https://scollinspt.github.io)**.
 For essays and public-facing writing, visit
 **[The Peripatetic Physical Therapist](https://peripateticpt.substack.com/)**.
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/17504c92-6adf-4a88-aaef-c215a90962cf/thumbnail" >
+</p>
