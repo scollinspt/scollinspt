@@ -2,10 +2,10 @@
 
 **Physical Therapist · Professor of Clinical Inquiry · Causal Inference Researcher**
 
-Professor of Clinical Inquiry, Doctor of Physical Therapy Program<br>
+Professor of Clinical Inquiry & Program Director, Doctor of Physical Therapy Program<br>
 School of Health, Plymouth State University
 
-I develop an open Clinical Inquiry Ecosystem for physical therapy: how observations
+I'm developing an open Clinical Inquiry Ecosystem for physical therapy: how observations
 become warranted evidence, how physiological and movement mechanisms explain effects,
 how causal knowledge can be represented computationally, and how population knowledge
 can support transparent reasoning about an individual patient.
@@ -16,7 +16,7 @@ can support transparent reasoning about an individual patient.
 | --- | --- | --- |
 | Discovery | **[stats4PT](https://stats4pt.org)** | Statistical inquiry, evidence interpretation, uncertainty, and causal reasoning |
 | Generative mechanisms | **[Physiolog](https://physiolog.org)** | Clinical physiology textbook, teaching simulations, and physiological models |
-| Movement-domain knowledge | **Movement Systems** *(in development)* | Biomechanics, neuromechanics, motor control, motor learning, task performance, and adaptation |
+| Movement-domain generative mechanisms | **Movement Systems** *(in development)* | Biomechanics, neuromechanics, motor control, motor learning, task performance, and adaptation |
 | Integration | **[Models4PT](https://github.com/scollinspt/Models4PT)** | Curated population causal knowledge with evidence, context, provenance, uncertainty, and disagreement |
 | Practice reasoning | **[Clinical Inference Engine](https://github.com/scollinspt/Clinical-Inference-Engine)** | Patient-specific model instantiation, belief revision, and inspectable inference |
 
