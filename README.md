@@ -5,23 +5,36 @@
 Professor of Clinical Inquiry, Doctor of Physical Therapy Program<br>
 School of Health, Plymouth State University
 
-I study the path from scientific evidence to clinical judgment: how physiological
-mechanisms and population-level causal knowledge can be represented computationally,
-then used to support transparent reasoning about individual patients.
+I develop an open Clinical Inquiry Ecosystem for physical therapy: how observations
+become warranted evidence, how physiological and movement mechanisms explain effects,
+how causal knowledge can be represented computationally, and how population knowledge
+can support transparent reasoning about an individual patient.
 
-My current open research program has three connected layers:
+## Clinical Inquiry Ecosystem
 
-1. **[Physiolog](https://physiolog.org)** — a muscle-centered clinical physiology
-   textbook and interactive learning platform that establishes the mechanistic
-   foundation.
-2. **[Models4PT](https://github.com/scollinspt/Models4PT)** — an experimental platform
-   for curating computable causal knowledge while preserving evidence, uncertainty,
-   provenance, disagreement, and human scientific review.
-3. **[Clinical Inference Engine](https://github.com/scollinspt/Clinical-Inference-Engine)**
-   — a research initiative exploring patient-specific causal models, Bayesian inference,
-   and inspectable explanations.
+| Scholarly role | Project | Contribution |
+| --- | --- | --- |
+| Discovery | **[stats4PT](https://stats4pt.org)** | Statistical inquiry, evidence interpretation, uncertainty, and causal reasoning |
+| Generative mechanisms | **[Physiolog](https://physiolog.org)** | Clinical physiology textbook, teaching simulations, and physiological models |
+| Movement-domain knowledge | **Movement Systems** *(in development)* | Biomechanics, neuromechanics, motor control, motor learning, task performance, and adaptation |
+| Integration | **[Models4PT](https://github.com/scollinspt/Models4PT)** | Curated population causal knowledge with evidence, context, provenance, uncertainty, and disagreement |
+| Practice reasoning | **[Clinical Inference Engine](https://github.com/scollinspt/Clinical-Inference-Engine)** | Patient-specific model instantiation, belief revision, and inspectable inference |
 
-The aim is to make the knowledge, assumptions, uncertainty, and inferential steps supporting judgment more explicit.
+**stats4PT evidence + Physiolog mechanisms + Movement Systems knowledge → Models4PT
+integration → Clinical Inference Engine practice reasoning**
+
+These projects are conceptually aligned but independently owned. Population evidence and
+models constrain clinical reasoning; they do not determine care without individual
+findings, context, uncertainty, and professional judgment.
+
+## Current Work
+
+- Building open books, simulations, and learning resources for physiology and movement
+  systems in physical therapy.
+- Developing transparent representations of evidence, mechanisms, causal claims,
+  provenance, uncertainty, and disagreement.
+- Studying how versioned population knowledge can support iterative patient-specific
+  reasoning without automating clinical judgment.
 
 I bring more than 30 years of experience in physical therapy education and more than
 25 years of clinical and quantitative research spanning cardiovascular outcomes,
@@ -30,7 +43,9 @@ evidence synthesis, and research design. I founded Plymouth State University's D
 of Physical Therapy program and teach clinical physiology and a three-course clinical
 inquiry sequence.
 
-Explore the full program at **[scollinspt.github.io](https://scollinspt.github.io)**.
-For essays and public-facing writing, visit
-**[The Peripatetic Physical Therapist](https://peripateticpt.substack.com/)**.
+## Elsewhere
+
+- **Professional profile:** [scollinspt.github.io](https://scollinspt.github.io)
+- **ORCID:** [0000-0002-7609-6219](https://orcid.org/0000-0002-7609-6219)
+- **Writing:** [The Peripatetic Physical Therapist](https://peripateticpt.substack.com/)
 
