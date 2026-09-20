@@ -1,6 +1,6 @@
 # Sean Collins
 
-**Physical Therapist · Professor of Clinical Inquiry · Causal Inference Researcher**
+**Physical Therapist · Professor of Clinical Inquiry**
 
 Professor of Clinical Inquiry & Program Director, Doctor of Physical Therapy Program<br>
 School of Health, Plymouth State University
@@ -23,7 +23,7 @@ can support transparent reasoning about an individual patient.
 **stats4PT evidence + Physiolog mechanisms + Movement Systems knowledge → Models4PT
 integration → Clinical Inference Engine practice reasoning**
 
-These projects are conceptually aligned but independently owned. Population evidence and
+These projects are conceptually aligned but independently developed. Population evidence and
 models constrain clinical reasoning; they do not determine care without individual
 findings, context, uncertainty, and professional judgment.
 
