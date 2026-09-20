@@ -1,8 +1,8 @@
 # Sean Collins
 
-**Physical Therapist · Professor of Clinical Inquiry**
+**Professor of Physical Therapy · Ergonomist/Human Factors Engineer · Physical Therapist**
 
-Professor of Clinical Inquiry & Program Director, Doctor of Physical Therapy Program<br>
+Professor of Physical Therapy & Program Director, Doctor of Physical Therapy Program<br>
 School of Health, Plymouth State University
 
 I'm developing an open Clinical Inquiry Ecosystem for physical therapy: how observations
