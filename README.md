@@ -16,7 +16,7 @@ can support transparent reasoning about an individual patient.
 | --- | --- | --- |
 | Discovery | **[stats4PT](https://stats4pt.org)** | Statistical inquiry, evidence interpretation, uncertainty, and causal reasoning |
 | Generative mechanisms | **[Physiolog](https://physiolog.org)** | Clinical physiology textbook, teaching simulations, and physiological models |
-| Movement-domain generative mechanisms | **Movement Systems** *(in development)* | Biomechanics, neuromechanics, motor control, motor learning, task performance, and adaptation |
+| Generative mechanisms | **Movement Systems** *(in development)* | Biomechanics, neuromechanics, motor control, motor learning, task performance, and adaptation |
 | Integration | **[Models4PT](https://github.com/scollinspt/Models4PT)** | Curated population causal knowledge with evidence, context, provenance, uncertainty, and disagreement |
 | Practice reasoning | **[Clinical Inference Engine](https://github.com/scollinspt/Clinical-Inference-Engine)** | Patient-specific model instantiation, belief revision, and inspectable inference |
 
