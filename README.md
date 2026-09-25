@@ -16,12 +16,12 @@ can support transparent reasoning about an individual patient.
 | --- | --- | --- |
 | Discovery | **[stats4PT](https://stats4pt.org)** | Statistical inquiry, evidence interpretation, uncertainty, and causal reasoning |
 | Generative mechanisms | **[Physiolog](https://physiolog.org)** | Clinical physiology textbook, teaching simulations, and physiological models |
-| Generative mechanisms | **Movement Systems** *(in development)* | Biomechanics, neuromechanics, motor control, motor learning, task performance, and adaptation |
+| Movement knowledge | **[Movement Systems](https://movementsystems.org)** | Movement theory, measurement, modeling, adaptation, and HMS Lab empirical inquiry |
 | Integration | **[Models4PT](https://github.com/scollinspt/Models4PT)** | Curated population causal knowledge with evidence, context, provenance, uncertainty, and disagreement |
 | Practice reasoning | **[Clinical Inference Engine](https://github.com/scollinspt/Clinical-Inference-Engine)** | Patient-specific model instantiation, belief revision, and inspectable inference |
 
 **stats4PT evidence + Physiolog mechanisms + Movement Systems knowledge → Models4PT
-integration → Clinical Inference Engine practice reasoning**
+population causal knowledge → Clinical Inference Engine patient-specific instantiation**
 
 These projects are conceptually aligned but independently developed. Population evidence and
 models constrain clinical reasoning; they do not determine care without individual
@@ -31,6 +31,8 @@ findings, context, uncertainty, and professional judgment.
 
 - Building open books, simulations, and learning resources for physiology and movement
   systems in physical therapy.
+- Developing the Human Movement Systems Laboratory as the clinically oriented empirical
+  research program within Movement Systems.
 - Developing transparent representations of evidence, mechanisms, causal claims,
   provenance, uncertainty, and disagreement.
 - Studying how versioned population knowledge can support iterative patient-specific
